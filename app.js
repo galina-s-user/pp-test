@@ -4,4 +4,4 @@
 
 let firstName = 'Ivan'
 firstName = 'Olya'
-console.log('Hellooooo,', firstName, '!')
+console.log('Hellooooo,', firstName)
